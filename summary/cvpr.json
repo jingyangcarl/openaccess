@@ -1,0 +1,130 @@
+{
+    "2023": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2023"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 2353
+            }
+        }
+    },
+    "2022": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2022"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 2074
+            }
+        }
+    },
+    "2021": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2021"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 1660
+            }
+        }
+    },
+    "2020": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2020"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 1466
+            }
+        }
+    },
+    "2019": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2019"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 1294
+            }
+        }
+    },
+    "2018": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2018"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 979
+            }
+        }
+    },
+    "2017": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2017"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 783
+            }
+        }
+    },
+    "2016": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2016"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 643
+            }
+        }
+    }
+}
