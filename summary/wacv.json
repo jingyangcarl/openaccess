@@ -1,17 +1,49 @@
 {
-    "2023": {
+    "2024": {
         "main": {
             "src": {
                 "openaccess": {
                     "name": "openaccess.thecvf.com",
-                    "url": "https://openaccess.thecvf.com/ICCV2023"
+                    "url": "https://openaccess.thecvf.com/WACV2024"
                 }
             },
             "tname": {
                 "0": "Poster"
             },
             "tnum": {
-                "0": 2156
+                "0": 846
+            }
+        }
+    },
+    "2023": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/WACV2023"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 639
+            }
+        }
+    },
+    "2022": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/WACV2022"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 406
             }
         }
     },
@@ -20,78 +52,30 @@
             "src": {
                 "openaccess": {
                     "name": "openaccess.thecvf.com",
-                    "url": "https://openaccess.thecvf.com/ICCV2021"
+                    "url": "https://openaccess.thecvf.com/WACV2021"
                 }
             },
             "tname": {
                 "0": "Poster"
             },
             "tnum": {
-                "0": 1612
+                "0": 406
             }
         }
     },
-    "2019": {
+    "2020": {
         "main": {
             "src": {
                 "openaccess": {
                     "name": "openaccess.thecvf.com",
-                    "url": "http://openaccess.thecvf.com/ICCV2019"
+                    "url": "https://openaccess.thecvf.com/WACV2020"
                 }
             },
             "tname": {
                 "0": "Poster"
             },
             "tnum": {
-                "0": 1075
-            }
-        }
-    },
-    "2017": {
-        "main": {
-            "src": {
-                "openaccess": {
-                    "name": "openaccess.thecvf.com",
-                    "url": "http://openaccess.thecvf.com/ICCV2017"
-                }
-            },
-            "tname": {
-                "0": "Poster"
-            },
-            "tnum": {
-                "0": 621
-            }
-        }
-    },
-    "2015": {
-        "main": {
-            "src": {
-                "openaccess": {
-                    "name": "openaccess.thecvf.com",
-                    "url": "http://openaccess.thecvf.com/ICCV2015"
-                }
-            },
-            "tname": {
-                "0": "Poster"
-            },
-            "tnum": {
-                "0": 526
-            }
-        }
-    },
-    "2013": {
-        "main": {
-            "src": {
-                "openaccess": {
-                    "name": "openaccess.thecvf.com",
-                    "url": "http://openaccess.thecvf.com/ICCV2013"
-                }
-            },
-            "tname": {
-                "0": "Poster"
-            },
-            "tnum": {
-                "0": 454
+                "0": 378
             }
         }
     }

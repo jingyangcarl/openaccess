@@ -126,5 +126,53 @@
                 "0": 643
             }
         }
+    },
+    "2015": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2015"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 602
+            }
+        }
+    },
+    "2014": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2014"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 540
+            }
+        }
+    },
+    "2013": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2013"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 471
+            }
+        }
     }
 }
