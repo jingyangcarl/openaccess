@@ -1,4 +1,20 @@
 {
+    "2024": {
+        "main": {
+            "src": {
+                "openaccess": {
+                    "name": "openaccess.thecvf.com",
+                    "url": "https://openaccess.thecvf.com/CVPR2024"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 2716
+            }
+        }
+    },
     "2023": {
         "main": {
             "src": {
